@@ -1,12 +1,13 @@
-📚 Library Management System
+##📚 Library Management System
+
 A modular Java console-based application to manage books and users in a library. It supports multiple roles (Students and Librarians), user authentication, book borrowing/returning, and CSV-based file handling for persistent storage.
 
-✨ Features
+##✨ Features
 👤 User Roles:
 
-Students: Register, log in, borrow & return books, view borrowed books.
+-Students: Register, log in, borrow & return books, view borrowed books.
 
-Librarians: Add books, view all books, approve pending librarian applications.
+-Librarians: Add books, view all books, approve pending librarian applications.
 
 🗃 Data Persistence:
 
