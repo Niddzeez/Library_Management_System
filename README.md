@@ -31,17 +31,17 @@ A modular **Java console-based application** to manage books and users in a libr
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 LibraryManagementSystem/ 
-├── LibraryMain.java # Main driver class 
-├── Library.java # Core logic (users, books, file handling) 
-├── User.java # Abstract base class 
-├── Student.java # Student logic 
-├── Librarian.java # Librarian logic 
-├── Book.java # Book model 
-├── books.csv # Stores all books 
-├── students.csv # Stores all registered students
+-├── LibraryMain.java # Main driver class 
+-├── Library.java # Core logic (users, books, file handling) 
+-├── User.java # Abstract base class 
+-├── Student.java # Student logic 
+-├── Librarian.java # Librarian logic 
+-├── Book.java # Book model 
+-├── books.csv # Stores all books 
+-├── students.csv # Stores all registered students
 
 
 ---
